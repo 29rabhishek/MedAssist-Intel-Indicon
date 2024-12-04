@@ -5,10 +5,10 @@
 #### 3) Become medical sound about your diseases
 #### 4) Finetune TrOCR and Llama-3.2-1b with recognized doctor handwritten medical prescription
 #### 5) Trust your new medical buddy.
-<p><img src="medassist1.jpeg" width="250>
-<img src="medassist2.jpeg" width="250>
-<img src="medassist3.jpeg" width="250>
-<img src="medassist4.jpeg" width="250>
-<img src="medassist5.jpeg" width="250>
+<p><img src="medassist1.jpeg" height="250>
+<img src="medassist2.jpeg" height="250>
+<img src="medassist3.jpeg" height="250>
+<img src="medassist4.jpeg" height="250>
+<img src="medassist5.jpeg" height="250>
 </p>
 
