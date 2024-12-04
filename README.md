@@ -8,7 +8,7 @@
 <p><img src="medassist1.jpeg" width="250>
 <img src="medassist2.jpeg" width="250>
 <img src="medassist3.jpeg" width="250>
-<img src="medassist4.jpeg" width="150>
-<img src="medassist5.jpeg" width="150>
+<img src="medassist4.jpeg" width="250>
+<img src="medassist5.jpeg" width="250>
 </p>
 
