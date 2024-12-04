@@ -1,4 +1,4 @@
-## MedAssist: Your Vison Medical Assistant 
+## MedAssist: Your Vision Medical Assistant 
 
 #### 1) Read medical Prescription with ease
 #### 2) Get alternate suggestions of medicine
