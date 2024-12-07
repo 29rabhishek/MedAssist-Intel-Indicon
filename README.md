@@ -13,3 +13,8 @@
 <img src="medassist5.jpeg" height="250">
 </p>
 
+## Steps to setup local server:
+### Download ollama using this(for linux): ```curl -fsSL https://ollama.com/install.sh | sh```
+### Run ollama server using ``` ollama serve ```
+
+
